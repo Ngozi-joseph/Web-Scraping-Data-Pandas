@@ -4,7 +4,7 @@
 
 Leverageing Jupyter Notebook to extract data from Wikipedia, targeting the 'List of the largest public / publicly traded companies' table, employing BeautifulSoup and pandas for efficient web scraping and data manipulation. 
 
-This data represents the leading companies in the United States by revenue as of 2023, sourced from the Fortune 500 and Forbes rankings. Through our approach, we aim to provide clear insights into the top-performing companies in a format accessible to all users.
+This data represents the leading companies in the United States by revenue as of 2023, sourced from the Fortune 500 and Forbes rankings. Through the approach, I aimed to provide clear insights into the top  performing companies in a format accessible to all users.
 
 # Tools
 
